@@ -21,7 +21,7 @@ This solution solves that bottleneck by:
 
 ## 🏗️ Solution Architecture & Scope
 
-<img width="6378" height="3740" alt="Data Warehouse Architecture" src="https://github.com/user-attachments/assets/41c407af-45d8-4680-9df0-d35e58ea5474" />
+<img width="6378" height="3740" alt="Data Warehouse Architecture" src="https://github.com/user-attachments/assets/cc1bbcc1-dffc-48ab-9108-b05c261cf9ed" />
 
 
 This warehouse follows the industry-standard **Medallion Architecture** to ensure traceability, data integrity, and maintainability:

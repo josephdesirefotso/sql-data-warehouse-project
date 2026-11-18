@@ -49,6 +49,7 @@ This warehouse follows the industry-standard **Medallion Architecture** to ensur
 * **Architecture & Modeling:** draw.io (System Architecture, Data Flow & Entity-Relationship Diagrams)
 * **Agile Delivery & Documentation:** Notion (Sprint backlog, phased execution plan, and stakeholder documentation)
 * **Version Control:** Git & GitHub
+* **Data Governance & Standards:** [Naming Conventions & Modeling Standards](docs/naming-conventions.md)
 
 ---
 

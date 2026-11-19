@@ -34,7 +34,7 @@ This warehouse follows the industry-standard **Medallion Architecture** to ensur
    * **Product Performance:** Top-performing SKUs, category margins, and slow-moving inventory.
    * **Sales Trends:** Period-over-period revenue growth, seasonality, and regional performance.
 ### End-to-End Data Lineage & Pipeline Flow
-![End-to-End Data Lineage](docs/data-lineage.png)
+![End-to-End Data Lineage](docs/data_lineage.png)
 ---
 
 ## 📋 Technical Specifications & Governance

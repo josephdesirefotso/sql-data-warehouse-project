@@ -35,6 +35,9 @@ This warehouse follows the industry-standard **Medallion Architecture** to ensur
    * **Sales Trends:** Period-over-period revenue growth, seasonality, and regional performance.
 ### End-to-End Data Lineage & Pipeline Flow
 ![End-to-End Data Lineage](docs/data_lineage.png)
+
+### Cross-System Data Integration & Entity Relationships
+![Data Integration & Table Relationships](docs/data-integration.png)
 ---
 
 ## 📋 Technical Specifications & Governance

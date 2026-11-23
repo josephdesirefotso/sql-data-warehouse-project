@@ -34,16 +34,16 @@ This warehouse follows the industry-standard **Medallion Architecture** to ensur
    * **Product Performance:** Top-performing SKUs, category margins, and slow-moving inventory.
    * **Sales Trends:** Period-over-period revenue growth, seasonality, and regional performance.
 ### End-to-End Data Lineage & Pipeline Flow
-![End-to-End Data Lineage](docs/data_lineage.png)
+![End-to-End Data Lineage](docs/data-lineage.jpg)
 
 ### Cross-System Data Integration & Entity Relationships
-![Data Integration & Table Relationships](docs/data-integration.png)
+![Data Integration & Table Relationships](docs/data-integration.jpg)
 
 ### Gold Layer: Sales Data Mart (Star Schema)
 The Gold Layer exposes conformed, business-ready views modeled as a **Star Schema** (`gold.fact_sales`, `gold.dim_customers`, and `gold.dim_products`) to support BI reporting and revenue analytics.
 
 ### Gold Layer: Sales Data Mart (Star Schema)
-![Sales Data Mart (Star Schema)](docs/sales-data-mart-star-schema.png)
+![Sales Data Mart (Star Schema)](docs/sales-data-mart-star-schema.jpg)
 
 > 📄 **Documentation:** [Gold Layer Data Catalog](docs/data-catalog.md) | [Naming Conventions](docs/naming-convention.md) | [Project Requirements](docs/project-requirements.md)
 

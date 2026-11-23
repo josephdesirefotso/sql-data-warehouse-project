@@ -3,6 +3,8 @@
 ## Executive Overview
 The **Gold Layer** serves as the business-ready presentation tier of the Data Warehouse. Modeled as a high-performance **Star Schema**, it organizes conformed master data into **Dimension Tables** and transactional business events into **Fact Tables** to power executive dashboards, self-service BI, and ad-hoc analytics.
 
+[Sales Data Mart (Star Schema)](sales-data-mart-star-schema.png)
+
 ---
 
 ## 1. `gold.dim_customers`

@@ -38,6 +38,14 @@ This warehouse follows the industry-standard **Medallion Architecture** to ensur
 
 ### Cross-System Data Integration & Entity Relationships
 ![Data Integration & Table Relationships](docs/data-integration.png)
+
+### Gold Layer: Sales Data Mart (Star Schema)
+The Gold Layer exposes conformed, business-ready views modeled as a **Star Schema** (`gold.fact_sales`, `gold.dim_customers`, and `gold.dim_products`) to support BI reporting and revenue analytics.
+
+![Sales Data Mart (Star Schema)](docs/sales-data-mart-star-schema.png)
+
+> 📄 **Full Schema Reference:** See the [Gold Layer Data Catalog](docs/data-catalog.md) for complete column definitions, data types, and business rules.
+
 ---
 
 ## 📋 Technical Specifications & Governance

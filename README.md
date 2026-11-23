@@ -62,7 +62,7 @@ The Gold Layer exposes conformed, business-ready views modeled as a **Star Schem
 * **Architecture & Modeling:** draw.io (System Architecture, Data Flow & Entity-Relationship Diagrams)
 * **Agile Delivery & Documentation:** Notion (Sprint backlog, phased execution plan, and stakeholder documentation)
 * **Version Control:** Git & GitHub
-* **Data Governance & Standards:** [Naming Conventions & Modeling Standards](docs/naming-conventions.md)
+* **Data Governance & Standards:** [Naming Conventions & Modeling Standards](docs/naming-convention.md)
 * **Requirements & Scope Blueprint:** [Project Requirements & Scope Specification](docs/project-requirements.md)
 
 ---
